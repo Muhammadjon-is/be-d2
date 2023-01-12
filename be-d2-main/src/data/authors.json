@@ -1,0 +1,39 @@
+[
+ 
+  {
+    "firstName": "Markus",
+    "lastName": "Mark",
+    "email": "test-different@test.com",
+    "createdAt": "2022-12-20T14:55:02.216Z",
+    "id": "1akjxo9lbwcky88",
+    "cover":"https://images.pexels.com/photos/12393012/pexels-photo-12393012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "firstName": "Markus",
+    "lastName": "Mark",
+    "email": "test@test.com",
+    "createdAt": "2022-12-20T16:10:23.425Z",
+    "id": "1akjz4olbwf9ute",
+    "cover":"https://images.pexels.com/photos/12393012/pexels-photo-12393012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "firstName": "Aristide",
+    "lastName": "Mark",
+    "email": "test@test.com",
+    "createdAt": "2022-12-20T16:42:30.382Z",
+    "id": "1akj114glbwgf5nz",
+    "author": "https://ui-avatars.com/api/?name=test for email check no2+Mark",
+    "updatedAt": "2022-12-22T17:14:45.541Z",
+    "avatar": "https://picsum.photos/200"
+  },
+  {
+    "firstName": "Markus",
+    "lastName": "Mark",
+    "email": "test@test.com",
+    "createdAt": "2022-12-22T16:51:54.006Z",
+    "id": "1akjqa4lbzbmxw6",
+    "author": "https://ui-avatars.com/api/?name=Markus+Mark",
+    "avatar": "http://localhost:3001/usersImgs/1akjqa4lbzbmxw6.gif",
+    "updatedAt": "2022-12-22T17:02:19.725Z"
+  }
+]
